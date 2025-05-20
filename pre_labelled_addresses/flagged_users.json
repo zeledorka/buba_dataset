@@ -1,0 +1,954 @@
+[
+    {
+        "address": "0x599e4f6a0b24af263b212fb731b733309a201c28",
+        "label": "bot"
+    },
+    {
+        "address": "0x431b5a84acc1297eda88259f300262f1bc3a74f3",
+        "label": "bot"
+    },
+    {
+        "address": "0x528f3e771a5d15ca265db606e29989da008ce6c3",
+        "label": "bot"
+    },
+    {
+        "address": "0xac8ce0981248195d2699a6e96cc093b69e424894",
+        "label": "bot"
+    },
+    {
+        "address": "0xeb467f831233c47b25877eaf895773c6031d7e71",
+        "label": "bot"
+    },
+    {
+        "address": "0x822a2aef1c4da3d313096a099bfe21afdd9997a6",
+        "label": "bot"
+    },
+    {
+        "address": "0x69f36ea1ebf4ec9e53e3aabf11caf62b034ff3ee",
+        "label": "bot"
+    },
+    {
+        "address": "0xe9f82f15910e161999777036e20cb4108f4df800",
+        "label": "bot"
+    },
+    {
+        "address": "0x42ad5aaaf1b94eff0776f3f7f86234dd1c124456",
+        "label": "bot"
+    },
+    {
+        "address": "0x4603180bbb8221157880afaa84638e0fc467738d",
+        "label": "bot"
+    },
+    {
+        "address": "0xd54e4f8a55247487dd7c8c59f14ee5c0c2889477",
+        "label": "bot"
+    },
+    {
+        "address": "0x67cbd53c354ad1f28ffb6887557abb6d0f3f2df8",
+        "label": "bot"
+    },
+    {
+        "address": "0xb6007a21d1c890742bd9a3a4e2c0ca8df646b0be",
+        "label": "bot"
+    },
+    {
+        "address": "0xd9408f29026e32852aff8c5c9c8ea834b44b4e1c",
+        "label": "bot"
+    },
+    {
+        "address": "0x293b310fb501aa9e493e178674ea2112a3c370ce",
+        "label": "bot"
+    },
+    {
+        "address": "0x53dd53daf8f112bca64332ea97398efbc8a0e234",
+        "label": "bot"
+    },
+    {
+        "address": "0xf8efd62b7f6e397a387a7fb232a54fe8f59c6b2a",
+        "label": "bot"
+    },
+    {
+        "address": "0x955807f8cb79c3a0f4f1e20a8eb336c51d37e5ca",
+        "label": "bot"
+    },
+    {
+        "address": "0xdf232cd869ffed26fbc6f2254e522435aa82be90",
+        "label": "bot"
+    },
+    {
+        "address": "0x305666304b78f4c1488a6d0b187a3d3091f9b9bb",
+        "label": "bot"
+    },
+    {
+        "address": "0xfb9779477e5b4834bf2bc02dd29b97b344d0f700",
+        "label": "bot"
+    },
+    {
+        "address": "0xb58555fcba6479fced7de1485eb054943a09af7b",
+        "label": "bot"
+    },
+    {
+        "address": "0xb446af9f25a7c2ee75706b15149a4a54dfb9d338",
+        "label": "bot"
+    },
+    {
+        "address": "0x46f8ff21273969d08ec843ed7179874c6e8ee868",
+        "label": "bot"
+    },
+    {
+        "address": "0x6d09b82034f588c409615c816ca4cc7ff95b37bc",
+        "label": "bot"
+    },
+    {
+        "address": "0x5aa17fc7f2950eca85376c3a8cb1509e8e4b39df",
+        "label": "bot"
+    },
+    {
+        "address": "0xdafea492d9c6733ae3d56b7ed1adb60692c98bc5",
+        "label": "bot"
+    },
+    {
+        "address": "0x714f9e905f131a95603530d61d9eeadf884b119a",
+        "label": "phishing"
+    },
+    {
+        "address": "0x9aa06b7f6c821c1b0c19c4c60ae217b83d4f70ad",
+        "label": "phishing"
+    },
+    {
+        "address": "0xe432d61a90604aef42c65d2c7f6565006dd29fe6",
+        "label": "phishing"
+    },
+    {
+        "address": "0xaf6d18473cd91acbf5c109f12d2126955ebb553a",
+        "label": "phishing"
+    },
+    {
+        "address": "0xc0fdf4fa92f88b82ccbebfc80fbe4eb7e5a8e0ca",
+        "label": "phishing"
+    },
+    {
+        "address": "0x3d90d8ef295a486605172aea882685bbb371376f",
+        "label": "phishing"
+    },
+    {
+        "address": "0x4e5c564fe3da52c1f88c6a95163a91d0fdb1898f",
+        "label": "phishing"
+    },
+    {
+        "address": "0x567d1775308f920908ca2de61b7667f5cd636558",
+        "label": "phishing"
+    },
+    {
+        "address": "0xeea751b3c4319201eeda7baf189408bd6f522d58",
+        "label": "phishing"
+    },
+    {
+        "address": "0x3d459f85be2493a31bcc44659ca3c7379793f448",
+        "label": "phishing"
+    },
+    {
+        "address": "0x945e5da00ff55feda8c4ad9b8cda225d014e219a",
+        "label": "phishing"
+    },
+    {
+        "address": "0x08d14aae50b7da86379b7f2c611cb7c4477bd41f",
+        "label": "phishing"
+    },
+    {
+        "address": "0xbe71c0e9e695810f3a18c1814a93bfb9940c82f8",
+        "label": "phishing"
+    },
+    {
+        "address": "0x0d11520bd08f29f510839ce257391363a7a7718e",
+        "label": "phishing"
+    },
+    {
+        "address": "0xa2682acab74e02200e8fa1da28b8b9524aba8884",
+        "label": "phishing"
+    },
+    {
+        "address": "0x000000b0fc5292c824cfaad9eea42b8040c33eeb",
+        "label": "phishing"
+    },
+    {
+        "address": "0x6084559f088bd83a320bfcc0d1d9a5a123ae15aa",
+        "label": "phishing"
+    },
+    {
+        "address": "0x8760513f944be842ffb4888fde71cad1e2a394c3",
+        "label": "phishing"
+    },
+    {
+        "address": "0xacfd4e98e829a24ead6d786c116eda2854d0f1ef",
+        "label": "phishing"
+    },
+    {
+        "address": "0x84527b5949d479c879b8dd71cd8f79048cdf6fb8",
+        "label": "phishing"
+    },
+    {
+        "address": "0x9fcd0783ee1f717f8169a7ce1870a7eac4dd0ddd",
+        "label": "phishing"
+    },
+    {
+        "address": "0xd05ad33117098b6250853b77d6e4ae07689e09cc",
+        "label": "phishing"
+    },
+    {
+        "address": "0xb6cee95674be83dbc0e600f60257b8a2141a8b1a",
+        "label": "phishing"
+    },
+    {
+        "address": "0x465f1e668ca098cd9fe7bef3c48eb5aaf3868ad0",
+        "label": "phishing"
+    },
+    {
+        "address": "0x4d53869f39e4258f3759783390241f209af6416d",
+        "label": "phishing"
+    },
+    {
+        "address": "0x2b5410b12ddaf243872d3b81fd6e457fd1713c4a",
+        "label": "phishing"
+    },
+    {
+        "address": "0x9cdce76c8d7962741b9f42bcea47b723c593efff",
+        "label": "phishing"
+    },
+    {
+        "address": "0x2b5d947dd955df7c2b09f849b1a5d634375ea32e",
+        "label": "phishing"
+    },
+    {
+        "address": "0x7502359202de8f2ebaa7229850b4387e1da43b63",
+        "label": "phishing"
+    },
+    {
+        "address": "0x321ddd97643b8a49c566eddad394075d6de09ce0",
+        "label": "phishing"
+    },
+    {
+        "address": "0x6f1ed372edceba48db7fc5e80e67d6166878f62f",
+        "label": "phishing"
+    },
+    {
+        "address": "0xcc577c130c019529ff1e721f9beea24a7dc1402d",
+        "label": "phishing"
+    },
+    {
+        "address": "0x3b506006b327d728ab73fe3a8d6885cb6c98c100",
+        "label": "phishing"
+    },
+    {
+        "address": "0x758f5f6475386527b480acdfc09dd79ff3340337",
+        "label": "phishing"
+    },
+    {
+        "address": "0xa3380f0f2af9a38e78996364ba9cfd68084809f8",
+        "label": "phishing"
+    },
+    {
+        "address": "0x68b80574cf8733ebeb0f8056820f84f82f76f323",
+        "label": "phishing"
+    },
+    {
+        "address": "0x70be360f86b78dc0feb34a4bc9efc63d91751d91",
+        "label": "phishing"
+    },
+    {
+        "address": "0xd613efbccfdc65ba5606061d20fcb0904c224ebd",
+        "label": "phishing"
+    },
+    {
+        "address": "0x3b99433be62972b74d34c9f02c777098316ecaa3",
+        "label": "phishing"
+    },
+    {
+        "address": "0xf2af6180b09663c37077f4e7d3d53c47143128aa",
+        "label": "phishing"
+    },
+    {
+        "address": "0xc95d488dc46af6bb7aafb7a283c627667526a193",
+        "label": "phishing"
+    },
+    {
+        "address": "0x0fe7723b20913600fc7bf462346bb0e99eb7d691",
+        "label": "phishing"
+    },
+    {
+        "address": "0x9d50f8b26391fbc078a8cdec3fbe8e63d67b34e2",
+        "label": "phishing"
+    },
+    {
+        "address": "0xb6af46be91b1ba4043c99f968c18871d3a763059",
+        "label": "phishing"
+    },
+    {
+        "address": "0x43c922deb0827b9f5b1bac648677077a66f108e5",
+        "label": "phishing"
+    },
+    {
+        "address": "0xc370f33f595913de942457f5c39870a34c4bc3b4",
+        "label": "phishing"
+    },
+    {
+        "address": "0xffb7f339ba7c1788a05c5477094a43101324505c",
+        "label": "phishing"
+    },
+    {
+        "address": "0xea3c38b8074c46459b12ee920416db19dc0d7753",
+        "label": "phishing"
+    },
+    {
+        "address": "0xb0d0da4a1f21079fc0999e28f8bdade521c9f722",
+        "label": "phishing"
+    },
+    {
+        "address": "0x14b50b15c932ef9565ffaf5c55a638f239c0e225",
+        "label": "phishing"
+    },
+    {
+        "address": "0x925f597a88926f42020bb9bb796ed5cfd89d30e6",
+        "label": "phishing"
+    },
+    {
+        "address": "0x3e1b1bf9ab7d3285ba19cd2379317b0b54cfd750",
+        "label": "phishing"
+    },
+    {
+        "address": "0xa49d8519f49ed42fe50afa3e6293f28034b3f272",
+        "label": "phishing"
+    },
+    {
+        "address": "0x6939432e462f7dcb6a3ca39b9723d18a58fe9a65",
+        "label": "phishing"
+    },
+    {
+        "address": "0xa78e055ae8d29c7e02dff47aac3f68c26848e552",
+        "label": "phishing"
+    },
+    {
+        "address": "0xe464da92a137365e0bab6b7b122465a36310bfb3",
+        "label": "phishing"
+    },
+    {
+        "address": "0x3bde96f61cec53e760456ad1f7bcc37e9da1e4b1",
+        "label": "phishing"
+    },
+    {
+        "address": "0x4258ebe8ca35de27d7f60a2512015190b8ad70e7",
+        "label": "phishing"
+    },
+    {
+        "address": "0x92c39077bf09cb8149b0222a27785f724ec3d27f",
+        "label": "phishing"
+    },
+    {
+        "address": "0xbe659b2fc06e6d54705acbbd1d931cf703043802",
+        "label": "phishing"
+    },
+    {
+        "address": "0x0ec3b5af50e2108ac153df21cf07fb38823b48ff",
+        "label": "phishing"
+    },
+    {
+        "address": "0xe532ed57ddc0292f51af00f1e2ebb11833c5c72d",
+        "label": "phishing"
+    },
+    {
+        "address": "0xb49fd56a219ee2aa41d8d58df3cbeb3360899994",
+        "label": "phishing"
+    },
+    {
+        "address": "0x950cb62960f2399826af70a3adeb622db0e778cb",
+        "label": "phishing"
+    },
+    {
+        "address": "0x29bc6ee3ce5a8d498414cf8e0735bee01a7174d6",
+        "label": "phishing"
+    },
+    {
+        "address": "0xff89a23fda558cbb3ec2c41bee589fe93e00efb1",
+        "label": "phishing"
+    },
+    {
+        "address": "0x0b3e87a076ac4b0d1975f0f232444af6deb96c59",
+        "label": "phishing"
+    },
+    {
+        "address": "0xa79a098c2957e8084e6e1fbc01f1182400507b74",
+        "label": "phishing"
+    },
+    {
+        "address": "0x1665bd914c07be16293d08b114d790297b53d73d",
+        "label": "phishing"
+    },
+    {
+        "address": "0x6e01af3913026660fcebb93f054345eccd972251",
+        "label": "phishing"
+    },
+    {
+        "address": "0xbb7e94b6d292443bcf665eb9733a79d27fff8294",
+        "label": "phishing"
+    },
+    {
+        "address": "0x8a1b0379e31bc4642f3d63e0c56f39753d4caafb",
+        "label": "phishing"
+    },
+    {
+        "address": "0xfb1c32fb43fb8bec73f429339e2eef1c50b93046",
+        "label": "phishing"
+    },
+    {
+        "address": "0xcdb7889422b2303fef8bed8ee0882aaa35f0a844",
+        "label": "phishing"
+    },
+    {
+        "address": "0xb0b5cd643f2a0c4d8f1a35a55f541fed7dbb3976",
+        "label": "phishing"
+    },
+    {
+        "address": "0x422e922f018d6661375a7139a89839328aa130dc",
+        "label": "phishing"
+    },
+    {
+        "address": "0xc81476ae9f2748725a36b326a1831200ed4f3ecf",
+        "label": "phishing"
+    },
+    {
+        "address": "0x62c65e81270bb576ee8a0178447d039e1be8a886",
+        "label": "phishing"
+    },
+    {
+        "address": "0xd0c5fa8d30b983f5fa3c925039e7307c034dc4a2",
+        "label": "phishing"
+    },
+    {
+        "address": "0xc1e3224ecec7e216ca2acfba621e523743168c72",
+        "label": "phishing"
+    },
+    {
+        "address": "0xd50d84e52d0df090787c03a09767a1e7889b09d5",
+        "label": "phishing"
+    },
+    {
+        "address": "0x53d967029a380680d8b1a95b342f029a7609b242",
+        "label": "phishing"
+    },
+    {
+        "address": "0xae44ffba176b1ee04cddc820d320d30df83600d8",
+        "label": "phishing"
+    },
+    {
+        "address": "0x1ff272d28d7f89455c00843f26d787b3b3245d8f",
+        "label": "phishing"
+    },
+    {
+        "address": "0xff30b32c7e7da16cc7cd100a54ecd77b103d1a1c",
+        "label": "phishing"
+    },
+    {
+        "address": "0x7b5f326d9e8b36237d17a1918f2fd99992619eae",
+        "label": "phishing"
+    },
+    {
+        "address": "0xb98267c98f2e4ba2f897b2ce7ab9e8f0fb2eeb4c",
+        "label": "phishing"
+    },
+    {
+        "address": "0xabb8472a739c7c2abbcb0e725fb46a87a4be8f2a",
+        "label": "phishing"
+    },
+    {
+        "address": "0xa9a1f8833f0d0161f4e8f90a418cd7700f940771",
+        "label": "phishing"
+    },
+    {
+        "address": "0x17e4e3e9591998ad988627f3a11b61c459568cee",
+        "label": "phishing"
+    },
+    {
+        "address": "0xa2d316e5a1c1fa2e1c8c420e29580da773335678",
+        "label": "phishing"
+    },
+    {
+        "address": "0xb90ebbf995ad7b30d1a3b2653e1ab3ecc16b9acb",
+        "label": "phishing"
+    },
+    {
+        "address": "0x929bf7dfc9c9ef3d3824ba368cb5b70300fc0186",
+        "label": "phishing"
+    },
+    {
+        "address": "0x5213895e87f9458afb3795f792bf8957b30d4017",
+        "label": "phishing"
+    },
+    {
+        "address": "0x1133805de803d9af378941a09d22de9634bec3e0",
+        "label": "phishing"
+    },
+    {
+        "address": "0xa7d0c0ece37ff638dec6191a048ef15c63fa53e1",
+        "label": "phishing"
+    },
+    {
+        "address": "0x194c07e44b6a7d3b8c64426f031514700e9281bf",
+        "label": "phishing"
+    },
+    {
+        "address": "0x7b62b058053d86e10ad778af93fdf9446dc32a5c",
+        "label": "phishing"
+    },
+    {
+        "address": "0x448891c149a699264daa8b9b290d2b5983bf48cf",
+        "label": "phishing"
+    },
+    {
+        "address": "0xb27f09b4be98836649c19c294293836695dd97a4",
+        "label": "phishing"
+    },
+    {
+        "address": "0x33a8d735e415ac77ef8f3c415cdbc361fb2abf3f",
+        "label": "phishing"
+    },
+    {
+        "address": "0x6d5a8ca1eb1ad2e4873b8da3a3c2452635b3da8a",
+        "label": "phishing"
+    },
+    {
+        "address": "0x712dd65e00d630b035d1185a61bd902d3a1f150d",
+        "label": "phishing"
+    },
+    {
+        "address": "0xb1a3b8d0de9acd383e1dc0ae39bc1e5f09a16f5f",
+        "label": "phishing"
+    },
+    {
+        "address": "0xa9cfc982a66d0134fee2539cfd633559fb5cf9a0",
+        "label": "phishing"
+    },
+    {
+        "address": "0x6efe8236f3e41e0237d75d14d4cc893e0f26b003",
+        "label": "phishing"
+    },
+    {
+        "address": "0xff178b609ee25267abdf8641a2cc18cf86f88dfe",
+        "label": "phishing"
+    },
+    {
+        "address": "0x9c83551e8c31b55e81db9e1aaffeea71c5c0c4e9",
+        "label": "phishing"
+    },
+    {
+        "address": "0x03499474a491ef05127d8087a227089361ba7303",
+        "label": "phishing"
+    },
+    {
+        "address": "0x924cd613428f170e34491b86e7f8b3560efcfe16",
+        "label": "phishing"
+    },
+    {
+        "address": "0xb3744fcf41d71d5178f391792abe63fe5d638b7e",
+        "label": "phishing"
+    },
+    {
+        "address": "0x561a5ed9f412506b9df147103aca4347f37ae954",
+        "label": "phishing"
+    },
+    {
+        "address": "0x919d9d3b4c1da9043f9375fefcc2cc3b6b860eeb",
+        "label": "phishing"
+    },
+    {
+        "address": "0x9959e2974a3478101defdab9bb2f3ca05725ba3d",
+        "label": "phishing"
+    },
+    {
+        "address": "0x62474d6c379788be4f9cddc0e67c3013a78522d9",
+        "label": "phishing"
+    },
+    {
+        "address": "0x276c094b89367eefad5f3a8545e692cf8a7512e8",
+        "label": "phishing"
+    },
+    {
+        "address": "0x13563fc204ec40cd52f0429fdf085ce88a55f51b",
+        "label": "phishing"
+    },
+    {
+        "address": "0x119001d47731f5bd8683ed6b9103034302f884e2",
+        "label": "phishing"
+    },
+    {
+        "address": "0x289a94694bbd7d1441cbc51ab9be0ae5997e0c75",
+        "label": "phishing"
+    },
+    {
+        "address": "0xab45b218954f0c5c8a88e0b9b33b4c4852c67a5c",
+        "label": "phishing"
+    },
+    {
+        "address": "0x4becbdf08e5ef5de9939be748c409774f5735b01",
+        "label": "phishing"
+    },
+    {
+        "address": "0x68f5e08784d6e0725051c8850c016372fb62231d",
+        "label": "phishing"
+    },
+    {
+        "address": "0xede21343c40973fe6c5f2964e9622333ba0ec507",
+        "label": "phishing"
+    },
+    {
+        "address": "0xf7f0c779f7e53f989384f366b955d29203fb44be",
+        "label": "phishing"
+    },
+    {
+        "address": "0x58ea1c0616d6356c82d0282d220fe9f9b7706796",
+        "label": "phishing"
+    },
+    {
+        "address": "0x4bf8325e8acb26db5f0d7b618ce111d0444c67ab",
+        "label": "phishing"
+    },
+    {
+        "address": "0x39e5efbf80a074cd0656599753b04ee616b15d7b",
+        "label": "phishing"
+    },
+    {
+        "address": "0x78537cb946e5f852716ce9298d39779d14f39fa9",
+        "label": "phishing"
+    },
+    {
+        "address": "0x337f2b17e1eff2c15745b4aaee93cbf9a9563264",
+        "label": "phishing"
+    },
+    {
+        "address": "0xe89884d9f1743ec12dfac444034406715699c181",
+        "label": "phishing"
+    },
+    {
+        "address": "0x96d983263c0689fc990dfb0853621875c48c049d",
+        "label": "phishing"
+    },
+    {
+        "address": "0x53efd488038e5f8c4a922a8ad6498fa1cd7db3da",
+        "label": "phishing"
+    },
+    {
+        "address": "0x4aa65136a914a90864c9244e6183e8137b632c16",
+        "label": "phishing"
+    },
+    {
+        "address": "0x864565a251813077349ed1c69e9fa97e5b1b36e4",
+        "label": "phishing"
+    },
+    {
+        "address": "0x2dfa6c7806870573b5cdc5ff855d3709dc09e890",
+        "label": "phishing"
+    },
+    {
+        "address": "0xe2cdf17f29a567846302969fb7578f7d35bec432",
+        "label": "phishing"
+    },
+    {
+        "address": "0x26a40e8dbdb0dee17d7036fcc0a2ae3fecf4800d",
+        "label": "phishing"
+    },
+    {
+        "address": "0x0128282ce73c72decabaeace9358344adff449fe",
+        "label": "phishing"
+    },
+    {
+        "address": "0x7c522f5b9159d2fbca302a98501073635fbcbb7d",
+        "label": "phishing"
+    },
+    {
+        "address": "0x7036520268350667cb5a9be6d40d3218aec88f4f",
+        "label": "phishing"
+    },
+    {
+        "address": "0x69227919ef39aa8c1aa5a56ba738b52986dafabf",
+        "label": "phishing"
+    },
+    {
+        "address": "0x32579485f88c817f7eb89999f9ffe4e4a4592af1",
+        "label": "phishing"
+    },
+    {
+        "address": "0x03d3b9978007fe0512a28311747f36ada73f4962",
+        "label": "phishing"
+    },
+    {
+        "address": "0xb20d1f946aa917087d9f0fd23eca11bb7e738fcb",
+        "label": "phishing"
+    },
+    {
+        "address": "0x72b30630c8b29cba0e0142bae1971fc347177caf",
+        "label": "phishing"
+    },
+    {
+        "address": "0xe983a68892fcdce95c4eb2d141d8456e1e702025",
+        "label": "phishing"
+    },
+    {
+        "address": "0xe3d77a45330276fccd6f003cbebdbb13a1f76877",
+        "label": "phishing"
+    },
+    {
+        "address": "0x582a7558ee8950a8ac4a739c96c0eabf35e3bb50",
+        "label": "phishing"
+    },
+    {
+        "address": "0xf49e329f433387f788841e513b2404259c638420",
+        "label": "phishing"
+    },
+    {
+        "address": "0xb883110e731021cf9c138a031c77e181b7373ffe",
+        "label": "phishing"
+    },
+    {
+        "address": "0x8009194614a7b3bca888fc8f994d8545050b9d5e",
+        "label": "phishing"
+    },
+    {
+        "address": "0x93ee633542a503e5f4d7d813baf3e0b2d5b94531",
+        "label": "phishing"
+    },
+    {
+        "address": "0x075d9bbefacb33b7b73ab8559989776fa0107bb8",
+        "label": "phishing"
+    },
+    {
+        "address": "0x29dc991289d6ebe5a25d1444dcd83654fde67d76",
+        "label": "phishing"
+    },
+    {
+        "address": "0x4fa3a7790ba17fc6cb2e49d74338ecdd920ab25f",
+        "label": "phishing"
+    },
+    {
+        "address": "0xa8e9d22a920413cd8607dc3f0b274c9f82f2822c",
+        "label": "phishing"
+    },
+    {
+        "address": "0x8c27473263f366b9934940a193ca58da550093a9",
+        "label": "phishing"
+    },
+    {
+        "address": "0x6e5fb49eb89f0e6dd2f9e0220935a0de3dd35485",
+        "label": "phishing"
+    },
+    {
+        "address": "0xc5e0ac69131ca5089d1c9f6a2c48148f7ead5856",
+        "label": "phishing"
+    },
+    {
+        "address": "0x67a8142d93ec172175bccce4969873058b56290a",
+        "label": "phishing"
+    },
+    {
+        "address": "0x92f5ae24da305f6fbd2d62586ed4de84ad05650f",
+        "label": "phishing"
+    },
+    {
+        "address": "0xf7d7e69023b48eca13baaecce954d7cb6e4169a0",
+        "label": "phishing"
+    },
+    {
+        "address": "0x82f8b9d44ce0c0503e3ccda4d894839d5467620b",
+        "label": "phishing"
+    },
+    {
+        "address": "0xe36d6371d5742504a8d1679ea7a6aa5d81e82dbb",
+        "label": "phishing"
+    },
+    {
+        "address": "0xef0159e704d06c888a140a50e06b3eab8375b538",
+        "label": "phishing"
+    },
+    {
+        "address": "0x55e712a70101028781af5007fdd05ea23f91e725",
+        "label": "phishing"
+    },
+    {
+        "address": "0xb324c10f5779e42445a70b5ce5331791adcc6f43",
+        "label": "phishing"
+    },
+    {
+        "address": "0xe5cd1e341ab501e3f0115b52beac941cadc7dce6",
+        "label": "phishing"
+    },
+    {
+        "address": "0x1be4a9079abb69b6e2ad0503292ef7e1ae4853e3",
+        "label": "phishing"
+    },
+    {
+        "address": "0xa69f8d3f55e2010012d59feb359ebbb258b00b0a",
+        "label": "phishing"
+    },
+    {
+        "address": "0x9a0525016ff2f6e0c63214a52bc4adce3be0a990",
+        "label": "phishing"
+    },
+    {
+        "address": "0xf696ab3e4f9d52482b8350ffae67d21fda78e601",
+        "label": "phishing"
+    },
+    {
+        "address": "0xc66ea26c7f8c5fe08b8a1b0519df9e0b2618e169",
+        "label": "phishing"
+    },
+    {
+        "address": "0x3626efb26783006c97431a3a77ddc4113572a619",
+        "label": "phishing"
+    },
+    {
+        "address": "0x6f07183cebcc9a704488ad58db5d93022e2f4173",
+        "label": "phishing"
+    },
+    {
+        "address": "0x635241d839ecbdc5eb47874138053288e92f4dbc",
+        "label": "phishing"
+    },
+    {
+        "address": "0xd422b783ea64f4d30c3531daceb31870c9ac2e61",
+        "label": "phishing"
+    },
+    {
+        "address": "0x03c4b92f7283f52ad43ef354f709e6778a74b7f4",
+        "label": "phishing"
+    },
+    {
+        "address": "0x93bbf194175c0bddb2812f60b4eb70ef2bb17bef",
+        "label": "phishing"
+    },
+    {
+        "address": "0x5444e7e26c0574faac6d0e06b1a0f9ea3da564fb",
+        "label": "phishing"
+    },
+    {
+        "address": "0xe9852df43c7d6355d1c417017ea457731242812c",
+        "label": "phishing"
+    },
+    {
+        "address": "0xb81d7efa288231ea256d610458bac8c4625cd6ee",
+        "label": "phishing"
+    },
+    {
+        "address": "0x541cb7ee31d0544c491608c97666865c87ffe36d",
+        "label": "phishing"
+    },
+    {
+        "address": "0xb8dcea5668aacab0e69562bf946022a63ef4a637",
+        "label": "phishing"
+    },
+    {
+        "address": "0xadf928d05690a3940b8bb28422076bf06ac43cfe",
+        "label": "phishing"
+    },
+    {
+        "address": "0xd6d60b0aef43c6054681ee5e6066ecacc137485a",
+        "label": "phishing"
+    },
+    {
+        "address": "0xf2c26e2bb5cbdb6cd6e1573b986a55d9cc1f7e5d",
+        "label": "phishing"
+    },
+    {
+        "address": "0xfc0f10845dec1420be18816f40cdf79eefbc56e0",
+        "label": "phishing"
+    },
+    {
+        "address": "0x0f79ac46778e570db5ebac5c08c614448219cd2a",
+        "label": "phishing"
+    },
+    {
+        "address": "0x65780c01487d68851b12a3e023cc474c3fa2ff2c",
+        "label": "phishing"
+    },
+    {
+        "address": "0x4106075f95d04ff988c27917308723adeee749b4",
+        "label": "phishing"
+    },
+    {
+        "address": "0xd4d5a4fb4c46a6a8b9a7b0ca17be96e1f054bd2c",
+        "label": "phishing"
+    },
+    {
+        "address": "0xc0642ea6b5f4f2b7fdaf419125c4aa01dfc8cc8d",
+        "label": "phishing"
+    },
+    {
+        "address": "0xe8d20921738ebb9f38c416cafd49ec406646e4f9",
+        "label": "phishing"
+    },
+    {
+        "address": "0x5e04d1b0047300038323b9ac5f7cb9e0843e15e6",
+        "label": "phishing"
+    },
+    {
+        "address": "0x449774e801d03d425d370732f3378df5782c6f20",
+        "label": "phishing"
+    },
+    {
+        "address": "0xe4be9c171333171fb2f9e1c593466946d99ebccd",
+        "label": "phishing"
+    },
+    {
+        "address": "0x44136967f00f65fafdf27e8b8c7fe5aa7f523695",
+        "label": "phishing"
+    },
+    {
+        "address": "0xc37e4ec8f4dcc8d322fc54219c3cf115130abb44",
+        "label": "phishing"
+    },
+    {
+        "address": "0x9eafd4096c93aaa42ca6c24cfe5d9bfa9dabe719",
+        "label": "phishing"
+    },
+    {
+        "address": "0x75e44f7541d5ce46f4d21075b45760f109c14b51",
+        "label": "phishing"
+    },
+    {
+        "address": "0x1ba383587e6b6e8925bc2fff5d6165ab8a2eeaaf",
+        "label": "phishing"
+    },
+    {
+        "address": "0x8d50d2eeeed7ea1de60c51ba3f767e48dfbd2320",
+        "label": "phishing"
+    },
+    {
+        "address": "0x841eb9c3175638c96c3be91ae7d014df6771eeab",
+        "label": "phishing"
+    },
+    {
+        "address": "0x31eeb80f47c37163d2457a1f66a1a89776e7dd47",
+        "label": "phishing"
+    },
+    {
+        "address": "0xc6f5341d0cfea47660985b1245387ebc0dbb6a12",
+        "label": "phishing"
+    },
+    {
+        "address": "0xceed34f03a3e607cc04c2d0441c7386b190d7cf4",
+        "label": "price_manipulation"
+    },
+    {
+        "address": "0x67a909f2953fb1138bea4b60894b51291d2d0795",
+        "label": "price_manipulation"
+    },
+    {
+        "address": "0x8a2d94ea342cbdd6d57db614b24f20cae286cac6",
+        "label": "price_manipulation"
+    },
+    {
+        "address": "0x51841D9AFe10fE55571bDB8f4Af1060415003528",
+        "label": "rug_pull"
+    },
+    {
+        "address": "0xe7f7a0154bf17b51c89d125f4bca543e8821d92f",
+        "label": "price_manipulation"
+    }
+]
