@@ -1,0 +1,641 @@
+[
+    {
+        "uuid": "6a108486-e778-4a75-9cf7-cfe4cb371ce0",
+        "events": [
+            "Swap",
+            "Transfer"
+        ],
+        "min_call": 1,
+        "mean_call": 9,
+        "max_call": 70495,
+        "min_timestamp": 1672531223,
+        "mean_timestamp": 1675081325,
+        "max_timestamp": 1677631427,
+        "num_of_deposit": 0,
+        "num_of_swaps": 1,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "fbda2cf9-547f-4c85-8c6b-4adefacd14c6",
+        "events": [
+            "Approval",
+            "DelegatedPowerChanged",
+            "Transfer"
+        ],
+        "min_call": 1,
+        "mean_call": 7,
+        "max_call": 1031,
+        "min_timestamp": 1672531223,
+        "mean_timestamp": 1675077437,
+        "max_timestamp": 1677623651,
+        "num_of_deposit": 0,
+        "num_of_swaps": 0,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "49116b8e-343f-416a-a1a0-68b1c40f0d47",
+        "events": [
+            "Approval",
+            "Transfer"
+        ],
+        "min_call": 1,
+        "mean_call": 7,
+        "max_call": 46964,
+        "min_timestamp": 1672531247,
+        "mean_timestamp": 1675081289,
+        "max_timestamp": 1677631331,
+        "num_of_deposit": 0,
+        "num_of_swaps": 0,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "04b77112-933a-494a-861c-1508716bc994",
+        "events": [
+            "Transfer"
+        ],
+        "min_call": 1,
+        "mean_call": 9,
+        "max_call": 64375,
+        "min_timestamp": 1672531247,
+        "mean_timestamp": 1675081337,
+        "max_timestamp": 1677631427,
+        "num_of_deposit": 0,
+        "num_of_swaps": 0,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "2703e644-6b28-4172-a891-0e2d3dd3fe8c",
+        "events": [
+            "Withdrawal"
+        ],
+        "min_call": 1,
+        "mean_call": 2,
+        "max_call": 6729,
+        "min_timestamp": 1672531247,
+        "mean_timestamp": 1675081337,
+        "max_timestamp": 1677631427,
+        "num_of_deposit": 0,
+        "num_of_swaps": 0,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "cbcc058f-5e1f-4e97-9a29-1fa35115bc10",
+        "events": [
+            "IncreaseLiquidity"
+        ],
+        "min_call": 1,
+        "mean_call": 5,
+        "max_call": 7551,
+        "min_timestamp": 1672531247,
+        "mean_timestamp": 1675081337,
+        "max_timestamp": 1677631427,
+        "num_of_deposit": 0,
+        "num_of_swaps": 0,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 1
+    },
+    {
+        "uuid": "ec8c1468-5ec4-44d8-99ad-4f29c615f245",
+        "events": [
+            "Approval",
+            "Swap",
+            "Transfer"
+        ],
+        "min_call": 1,
+        "mean_call": 7,
+        "max_call": 21250,
+        "min_timestamp": 1672531247,
+        "mean_timestamp": 1675081319,
+        "max_timestamp": 1677631391,
+        "num_of_deposit": 0,
+        "num_of_swaps": 1,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "c0d73ccd-a86e-44db-9ac3-260b8ba6eb09",
+        "events": [
+            "Collect",
+            "Transfer"
+        ],
+        "min_call": 1,
+        "mean_call": 9,
+        "max_call": 22301,
+        "min_timestamp": 1672531283,
+        "mean_timestamp": 1675081283,
+        "max_timestamp": 1677631283,
+        "num_of_deposit": 0,
+        "num_of_swaps": 0,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "7243e79a-2058-48c8-bb63-d6b9308331ea",
+        "events": [
+            "Burn"
+        ],
+        "min_call": 1,
+        "mean_call": 5,
+        "max_call": 7551,
+        "min_timestamp": 1672531283,
+        "mean_timestamp": 1675081319,
+        "max_timestamp": 1677631355,
+        "num_of_deposit": 0,
+        "num_of_swaps": 0,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "56563a36-831a-4fd6-b57c-8bf9a5ae6b64",
+        "events": [
+            "DecreaseLiquidity"
+        ],
+        "min_call": 1,
+        "mean_call": 5,
+        "max_call": 7550,
+        "min_timestamp": 1672531283,
+        "mean_timestamp": 1675081271,
+        "max_timestamp": 1677631259,
+        "num_of_deposit": 0,
+        "num_of_swaps": 0,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 1
+    },
+    {
+        "uuid": "01892265-d2d5-4370-ac17-e1c66ddb4e3d",
+        "events": [
+            "Approval"
+        ],
+        "min_call": 1,
+        "mean_call": 3,
+        "max_call": 24882,
+        "min_timestamp": 1672531283,
+        "mean_timestamp": 1675081355,
+        "max_timestamp": 1677631427,
+        "num_of_deposit": 0,
+        "num_of_swaps": 0,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "6c845def-489a-4475-b0ca-74317266fc9f",
+        "events": [
+            "Mint"
+        ],
+        "min_call": 1,
+        "mean_call": 5,
+        "max_call": 7281,
+        "min_timestamp": 1672531283,
+        "mean_timestamp": 1675081355,
+        "max_timestamp": 1677631427,
+        "num_of_deposit": 0,
+        "num_of_swaps": 0,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "d7f135de-c0ae-49f5-9f4e-b941ca369afd",
+        "events": [
+            "Swap"
+        ],
+        "min_call": 1,
+        "mean_call": 5,
+        "max_call": 40668,
+        "min_timestamp": 1672531247,
+        "mean_timestamp": 1675081337,
+        "max_timestamp": 1677631427,
+        "num_of_deposit": 0,
+        "num_of_swaps": 1,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "7ed8ba1a-faf1-4d5b-b16a-f76c8d111a3c",
+        "events": [
+            "Deposit",
+            "Swap",
+            "Transfer"
+        ],
+        "min_call": 1,
+        "mean_call": 1,
+        "max_call": 746,
+        "min_timestamp": 1672531271,
+        "mean_timestamp": 1675081295,
+        "max_timestamp": 1677631319,
+        "num_of_deposit": 1,
+        "num_of_swaps": 1,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "200447b4-0f38-4eb0-b590-cb0b3233b0c9",
+        "events": [
+            "Sync"
+        ],
+        "min_call": 1,
+        "mean_call": 7,
+        "max_call": 23613,
+        "min_timestamp": 1672531247,
+        "mean_timestamp": 1675081337,
+        "max_timestamp": 1677631427,
+        "num_of_deposit": 0,
+        "num_of_swaps": 0,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "756eb7d9-3c1f-451b-8384-44ce6d94b58b",
+        "events": [
+            "DelegatedPowerChanged",
+            "Transfer"
+        ],
+        "min_call": 1,
+        "mean_call": 9,
+        "max_call": 15197,
+        "min_timestamp": 1672531223,
+        "mean_timestamp": 1675081187,
+        "max_timestamp": 1677631151,
+        "num_of_deposit": 0,
+        "num_of_swaps": 0,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "b435ac18-6033-42b8-a1e0-f319fb661bf8",
+        "events": [
+            "Approval",
+            "Swap",
+            "Transfer",
+            "Withdrawal"
+        ],
+        "min_call": 1,
+        "mean_call": 2,
+        "max_call": 2141,
+        "min_timestamp": 1672531295,
+        "mean_timestamp": 1675080845,
+        "max_timestamp": 1677630395,
+        "num_of_deposit": 0,
+        "num_of_swaps": 1,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "f6009aac-d2e8-4612-b913-88e5e51a211b",
+        "events": [
+            "SafeReceived"
+        ],
+        "min_call": 1,
+        "mean_call": 1,
+        "max_call": 389,
+        "min_timestamp": 1672531271,
+        "mean_timestamp": 1675081331,
+        "max_timestamp": 1677631391,
+        "num_of_deposit": 0,
+        "num_of_swaps": 0,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "f588b99a-3ad2-4719-947b-df2094041d60",
+        "events": [
+            "Deposit"
+        ],
+        "min_call": 1,
+        "mean_call": 2,
+        "max_call": 2061,
+        "min_timestamp": 1672531367,
+        "mean_timestamp": 1675081397,
+        "max_timestamp": 1677631427,
+        "num_of_deposit": 1,
+        "num_of_swaps": 0,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "36ace76f-8c55-448c-ac6e-b366a96e0c93",
+        "events": [
+            "Swap",
+            "Withdrawal"
+        ],
+        "min_call": 1,
+        "mean_call": 2,
+        "max_call": 5905,
+        "min_timestamp": 1672531475,
+        "mean_timestamp": 1675081403,
+        "max_timestamp": 1677631331,
+        "num_of_deposit": 0,
+        "num_of_swaps": 1,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "a2697199-8381-4073-9c61-6406d9d6db30",
+        "events": [
+            "Approval",
+            "Sent"
+        ],
+        "min_call": 1,
+        "mean_call": 2,
+        "max_call": 599,
+        "min_timestamp": 1672531643,
+        "mean_timestamp": 1675080065,
+        "max_timestamp": 1677628487,
+        "num_of_deposit": 0,
+        "num_of_swaps": 0,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "a7f75139-2b7b-4549-a0b7-f90633c19c60",
+        "events": [
+            "Burn",
+            "Collect",
+            "Transfer"
+        ],
+        "min_call": 1,
+        "mean_call": 2,
+        "max_call": 98,
+        "min_timestamp": 1672532087,
+        "mean_timestamp": 1675079609,
+        "max_timestamp": 1677627131,
+        "num_of_deposit": 0,
+        "num_of_swaps": 0,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "31fb1271-5624-41dc-a943-010ca0b58f3f",
+        "events": [
+            "Swapped"
+        ],
+        "min_call": 1,
+        "mean_call": 2,
+        "max_call": 1809,
+        "min_timestamp": 1672532183,
+        "mean_timestamp": 1675081793,
+        "max_timestamp": 1677631403,
+        "num_of_deposit": 0,
+        "num_of_swaps": 1,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "e5aebb8f-238a-43b1-98e6-ab1f322f4e8e",
+        "events": [
+            "OrderFilled"
+        ],
+        "min_call": 1,
+        "mean_call": 5,
+        "max_call": 25915,
+        "min_timestamp": 1672532135,
+        "mean_timestamp": 1675081775,
+        "max_timestamp": 1677631415,
+        "num_of_deposit": 0,
+        "num_of_swaps": 0,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "8ff92bf4-a7dd-4bae-929f-a9e637ac074a",
+        "events": [
+            "DelegateVotesChanged"
+        ],
+        "min_call": 1,
+        "mean_call": 2,
+        "max_call": 103,
+        "min_timestamp": 1672532387,
+        "mean_timestamp": 1675081811,
+        "max_timestamp": 1677631235,
+        "num_of_deposit": 0,
+        "num_of_swaps": 0,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "4e6b0ad3-f350-4699-b6c5-274f228cff1f",
+        "events": [
+            "Approval",
+            "Sent",
+            "Transfer"
+        ],
+        "min_call": 1,
+        "mean_call": 4,
+        "max_call": 1026,
+        "min_timestamp": 1672532435,
+        "mean_timestamp": 1675081595,
+        "max_timestamp": 1677630755,
+        "num_of_deposit": 0,
+        "num_of_swaps": 0,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "ef4d0aad-eafd-4d68-b401-ab9eee57b1c7",
+        "events": [
+            "Approval",
+            "Sent",
+            "Swap",
+            "Transfer"
+        ],
+        "min_call": 1,
+        "mean_call": 6,
+        "max_call": 366,
+        "min_timestamp": 1672532435,
+        "mean_timestamp": 1675077413,
+        "max_timestamp": 1677622391,
+        "num_of_deposit": 0,
+        "num_of_swaps": 1,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "75d6f2f2-86c4-42ab-9f51-f33f2690fa3d",
+        "events": [
+            "Sent",
+            "Transfer"
+        ],
+        "min_call": 1,
+        "mean_call": 5,
+        "max_call": 2285,
+        "min_timestamp": 1672532435,
+        "mean_timestamp": 1675080713,
+        "max_timestamp": 1677628991,
+        "num_of_deposit": 0,
+        "num_of_swaps": 0,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "a2b895dc-6dde-434a-a5cc-132392d3ad03",
+        "events": [
+            "Sent",
+            "Swap",
+            "Transfer"
+        ],
+        "min_call": 1,
+        "mean_call": 7,
+        "max_call": 880,
+        "min_timestamp": 1672532435,
+        "mean_timestamp": 1675080713,
+        "max_timestamp": 1677628991,
+        "num_of_deposit": 0,
+        "num_of_swaps": 1,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "954103b5-2a8a-4aa0-9231-d02b9505bcbc",
+        "events": [
+            "Approval",
+            "Swap"
+        ],
+        "min_call": 1,
+        "mean_call": 2,
+        "max_call": 3269,
+        "min_timestamp": 1672532483,
+        "mean_timestamp": 1675081883,
+        "max_timestamp": 1677631283,
+        "num_of_deposit": 0,
+        "num_of_swaps": 1,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "8a7877de-ef12-4393-9c7d-a511ba5c2c55",
+        "events": [
+            "SwappedV3"
+        ],
+        "min_call": 1,
+        "mean_call": 3,
+        "max_call": 7197,
+        "min_timestamp": 1672532399,
+        "mean_timestamp": 1675081853,
+        "max_timestamp": 1677631307,
+        "num_of_deposit": 0,
+        "num_of_swaps": 1,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "0722d829-7c47-407d-a3da-c482e0588f6d",
+        "events": [
+            "Sent"
+        ],
+        "min_call": 1,
+        "mean_call": 2,
+        "max_call": 255,
+        "min_timestamp": 1672539659,
+        "mean_timestamp": 1675084175,
+        "max_timestamp": 1677628691,
+        "num_of_deposit": 0,
+        "num_of_swaps": 0,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "1f03817c-b56f-4d7b-807f-56dd2efd335d",
+        "events": [
+            "Collect"
+        ],
+        "min_call": 1,
+        "mean_call": 3,
+        "max_call": 211,
+        "min_timestamp": 1672545179,
+        "mean_timestamp": 1675088267,
+        "max_timestamp": 1677631355,
+        "num_of_deposit": 0,
+        "num_of_swaps": 0,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "dfda8745-50ce-4560-8209-ad4b44004fb6",
+        "events": [
+            "Sent",
+            "Swap"
+        ],
+        "min_call": 1,
+        "mean_call": 2,
+        "max_call": 110,
+        "min_timestamp": 1672551575,
+        "mean_timestamp": 1675084043,
+        "max_timestamp": 1677616511,
+        "num_of_deposit": 0,
+        "num_of_swaps": 1,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "14dec132-11ab-49b8-ac38-e4eca5808267",
+        "events": [
+            "PoolCreated",
+            "Transfer"
+        ],
+        "min_call": 1,
+        "mean_call": 1,
+        "max_call": 11,
+        "min_timestamp": 1672569659,
+        "mean_timestamp": 1675093067,
+        "max_timestamp": 1677616475,
+        "num_of_deposit": 0,
+        "num_of_swaps": 0,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "66819a7a-d9b0-47c0-9a7b-6cd53a751d55",
+        "events": [
+            "Initialize"
+        ],
+        "min_call": 1,
+        "mean_call": 1,
+        "max_call": 11,
+        "min_timestamp": 1672569659,
+        "mean_timestamp": 1675096895,
+        "max_timestamp": 1677624131,
+        "num_of_deposit": 0,
+        "num_of_swaps": 0,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "08925005-03a8-4124-bfa3-5f94a27e8ffc",
+        "events": [
+            "Approval",
+            "BridgeFill",
+            "LimitOrderFilled",
+            "TransformedERC20"
+        ],
+        "min_call": 1,
+        "mean_call": 1,
+        "max_call": 12,
+        "min_timestamp": 1673094947,
+        "mean_timestamp": 1674240743,
+        "max_timestamp": 1675386539,
+        "num_of_deposit": 0,
+        "num_of_swaps": 0,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    },
+    {
+        "uuid": "764f99ac-400b-4c2f-b660-824e86f803d3",
+        "events": [
+            "Permit"
+        ],
+        "min_call": 1,
+        "mean_call": 1,
+        "max_call": 223,
+        "min_timestamp": 1673988803,
+        "mean_timestamp": 1675810115,
+        "max_timestamp": 1677631427,
+        "num_of_deposit": 0,
+        "num_of_swaps": 0,
+        "num_of_borrow": 0,
+        "num_of_liquidity": 0
+    }
+]
